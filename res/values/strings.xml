@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">最新の５件を取得</string>
+    <string name="app_name">Evernote取得</string>
+    <string name="simple_list_item"></string>
+        
+</resources>
