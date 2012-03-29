@@ -3,7 +3,7 @@ package com.example.android.hello2;
 import android.app.Activity;
 import android.os.Bundle;
 import android.widget.TextView;
-
+//a‚ ‚ ‚ aaa
 public class EverToHatenaActivity extends Activity {
 	@Override
 	public void onCreate(Bundle savedInstanceState){
